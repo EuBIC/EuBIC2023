@@ -3,7 +3,7 @@
 
 ![Logo](logo_2023.png)
 
-The EuBIC 2023 developer's meeting will bring together scientists active in the field of bioinformatics and computational proteomics.
+The EuBIC 2023 developer's meeting will bring together scientists active in the field of computational proteomics.
 
 __This repository collects proposals for hackathon projects at the EuBIC 2023 developer's meeting.__ For details about the submission format, see below.
 
