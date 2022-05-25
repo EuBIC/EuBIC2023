@@ -24,3 +24,7 @@ A (high-level) project plan detailing the work to be conducted. This primarily i
 - The programming language(s) that will be used.
 - (If applicable) Any existing software that will be featured.
 - (If applicable) Any datasets that will be used and their availability.
+
+# Contact Information
+
+Your name, affiliation, and contact information.
