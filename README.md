@@ -42,5 +42,5 @@ Create an issue in this repository describing your project. When creating an iss
 
 ### Important deadlines
 
-- Hackathons proposal deadline: September 30th, 2023
-- Notification of accepted hackathons: November 1st, 2023 
+- Hackathons proposal deadline: September 30th, 2022
+- Notification of accepted hackathons: November 1st, 2022
