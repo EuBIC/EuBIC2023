@@ -49,4 +49,4 @@ Create an issue in this repository describing your project. When creating an iss
 
 ![ETHlogo](eth_logo_kurz_pos.png)
 
-![EuPAlogo]([https://eupa.org/](https://eupa.org/wp-content/uploads/2016/07/header-object.png))
+![EuPAlogo](https://eupa.org/wp-content/uploads/2016/07/header-object.png)
