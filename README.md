@@ -45,4 +45,4 @@ Create an issue in this repository describing your project. When creating an iss
 - Hackathons proposal deadline: September 30th, 2022
 - Notification of accepted hackathons: November 1st, 2022
 
-![ETHlogo](eth_logo_kurz_neg.png)
+![ETHlogo](eth_logo_kurz_pos.png)
