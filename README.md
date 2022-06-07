@@ -14,7 +14,7 @@ For more information about the meeting, please check the **[official website](ht
 
 Topics for the hackathon sessions during the EuBIC 2023 developer's meeting can now be proposed!
 
-Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developer's meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues)**.
+Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developer's meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues/3)**.
 
 ### How to submit a project proposal?
 
