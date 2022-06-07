@@ -1,4 +1,4 @@
-# EuBIC 2023 developer's meeting
+# EuBIC 2023 developers meeting
 
 ### Sunday, 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
 
