@@ -8,7 +8,7 @@ Any code developed during the hackathons should be distributed under an open-sou
 
 ## Scope
 
-Your project should not be to complex and be finishable in about 3 days by a team of max. 10 developers. Don't assume that everybody is a full-blown coding expert! You might budget extra time for explaining common tools like your favourite code reporsitory or whatever tools should be used by the project team. Coding style and documentation are also important aspects that should be covered. Try to break down your project into manageable smaller subunits that can be solved 2-3 people working in parallel. Always keep in mind that parts still need to come back together, so interface design/definition might also be a topic.
+Your project should not be to complex and be finishable in about 3 days by a team of max. 10 developers. Don't assume that everybody is a full-blown coding expert! You might budget extra time for explaining common tools like your favourite code reporsitory or whatever tools should be used by the project team. Coding style, documentation, unit testing and CI are also important aspects that might be worth touching on. Try to break down your project into manageable smaller subunits that can be solved 2-3 people working in parallel. Always keep in mind that parts still need to come back together, so interface design/definition might also be a topic.
 
 🧑🏼‍💻👨🏾‍💻👩🏻‍💻
 
