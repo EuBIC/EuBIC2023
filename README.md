@@ -48,6 +48,13 @@ Create an issue in this repository describing your project. When creating an iss
 
 ### Powered by
 
-![ETHlogo](eth_logo_kurz_pos.png)
+<img src="graphics/fgcz.svg" alt="FGCZ" height="100"/>
+<img src="graphics/ethz.svg" alt="ETHZ" height="100"/>
+<img src="graphics/uzh.svg" alt="UZH" height="100"/>
 
-![EuPAlogo](https://eupa.org/wp-content/uploads/2016/07/header-object.png)
+<img src="(https://eupa.org/wp-content/uploads/2016/07/header-object.png" alt="Matrix Science" height="100"/>
+
+### Sponsors 
+
+<img src="graphics/MatrixScience_logo_CMYK_800x212.jpg" alt="Matrix Science" height="100"/>
+
