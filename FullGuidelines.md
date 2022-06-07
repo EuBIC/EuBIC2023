@@ -37,7 +37,7 @@ These projects can include, but are not limited to:
 
 ## Guidelines
 
-Hackathon project proposals can be submitted by creating an [issue on GitHub](https://github.com/eubic/EuBIC2023/issues/new). 
+Hackathon project proposals can be submitted by creating an [issue on GitHub](https://github.com/eubic/EuBIC2023/issues). 
 The project proposal submission deadline is September 30th, 2022.
 
 Please describe your **project proposal** in sufficient detail. Project proposal submissions should at least include the following 
@@ -57,10 +57,10 @@ information:
 **Contact information:**   
    -   Your name and contact information.
 
-To ensure smooth running of the developer's meeting we mandate that anyone who submits a project proposal will be **responsible** for 
-this project if it gets selected for inclusion into the meeting program. Submitters commit to registering for the EuBIC 2023 Developer's 
-Meeting and will be the main contact person managing the project. This may include some preparatory tasks prior to the Developer's 
-Meeting such as collecting and distributing relevant datasets or coding guidelines and coordinating tasks during the Developer's Meeting.
+To ensure smooth running of the developers meeting we mandate that anyone who submits a project proposal will be **responsible** for 
+this project if it gets selected for inclusion into the meeting program. Submitters commit to registering for the EuBIC 2023 Developers 
+Meeting and will be the main contact person managing the project. This may include some preparatory tasks prior to the Developers 
+Meeting such as collecting and distributing relevant datasets or coding guidelines and coordinating tasks during the Developers Meeting.
 
 If you are interested in one of the submitted project proposals please **indicate your support** for the corresponding GitHub issue. 
 You can simply vote for your favorite projects or leave comments to the most interesting proposals. When discussing an extension 

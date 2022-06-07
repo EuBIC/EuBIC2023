@@ -18,7 +18,7 @@ Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023
 
 ### How to submit a project proposal?
 
-Create an issue in this repository describing your project. When creating an issue a template is provided listing some of the relevant information that should be included:
+Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this repository describing your project. When creating an issue a template is provided listing some of the relevant information that should be included:
 
 **Project description:**
 
