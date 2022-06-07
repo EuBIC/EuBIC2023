@@ -7,11 +7,11 @@ Any code developed during the hackathons should be distributed under an open-sou
 
 ## Submission
 
-Topics for the hackathon sessions during the EuBIC 2023 Developer's Meeting can now be proposed!
+Topics for the hackathon sessions during the EuBIC 2023 Developers Meeting can now be proposed!
 
 We are currently **crowd sourcing** projects to connect bioinformaticians. You can **vote for your favorite projects** and international 
 task forces will be created around the most successful proposals. 
-Projects with most votes will be presented at the Developer's Meeting and included in coding sessions!
+Projects with most votes will be presented at the Developers Meeting and included in coding sessions!
 
 These projects can include, but are not limited to:
 
@@ -40,7 +40,7 @@ information:
 
    -  A general abstract of up to 200 words describing the goal of the project and why it is well suited as a community project.   
    -  A (high-level) project plan detailing the work to be conducted. This primarily includes tasks that will be tackled during the 
-   developer's meeting, but we encourage you to also think about a follow-up strategy.
+   developers meeting, but we encourage you to also think about a follow-up strategy.
 
 **Technical details:**   
     -  The programming language(s) that will be used.      
