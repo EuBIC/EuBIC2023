@@ -1,6 +1,4 @@
 # EuBIC 2023 developers meeting
-### 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
-
 
 ### Sunday, 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
 
@@ -16,7 +14,7 @@ For more information about the meeting, please check the **[official website](ht
 
 Topics for the hackathon sessions during the EuBIC 2023 developers meeting can now be proposed!
 
-Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developer's meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues/3)**.
+Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developers meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues/3)**.
 
 ### How to submit a project proposal?
 
