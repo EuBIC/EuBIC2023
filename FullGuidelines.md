@@ -1,7 +1,9 @@
 
 ## Preample
 
-Any code developed in the hackathons is supposed to be distributed under an open-source code license.
+We believe in the [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068) (FAIR4RS Principles). A "fresh look" is outlined [here](https://www.sciencedirect.com/science/article/pii/S2666389921000362?via%3Dihub).
+
+Any code developed during the hackathons should be distributed under an open-source license.
 
 ## Submission
 
