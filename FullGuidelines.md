@@ -22,18 +22,27 @@ Projects with most votes will be presented at the Developers Meeting and include
 
 These projects can include, but are not limited to:
 
-  -   Tools    
-    - Extension of existing bioinformatics tools under the guidance of their original authors   
-    - Development of novel bioinformatics tools to solve open problems   
-  -   Benchmarking    
-     -   Compilation of gold-truth datasets   
-     -   Collection of reference algorithmic implementations   
-     -   Specification of benchmarking criteria   
-   -  Workflows    
-     -   Definition of formal protocols   
-     -   Development of tutorials for bioinformatics software usage   
-   -  Data analysis   
-     -   (Re)analysis of publicly available proteomics datasets   
+### Software Tool Development
+- Extension of existing bioinformatics tools under the guidance of their original authors   
+- Development of novel bioinformatics tools to solve open problems   
+
+### Benchmarking of Software Tools/Algorithms
+- Compilation of ground-truth/reference datasets   
+- Collection of reference implementation   
+- Specification of benchmarking criteria/free parameters
+- Implementation of automated benchmarking workflow
+
+### Development of Data Analysis Workflows
+- Definition of formal protocol   
+- Implementation of analysis workflow using a reproducable & shareable framework (Galaxy, Nextflow, ...)
+- Publication of workflow
+
+### Dataset re-analysis   
+- (Re)analysis of publicly available proteomics datasets
+- Are the original results reproduceable?
+- Are the results robust or do they suffer from free parameter choices?
+
+Due to this years topic, we of course hope to recieve many AI-related hackathon proposal, but this is NOT a must! Any good science is welcome! 🧠👩‍🔬💡
 
 ## Guidelines
 
