@@ -1,7 +1,8 @@
 # EuBIC 2023 developer's meeting
-### 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
 
-![Logo](logo_2023.png)
+### Sunday, 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
+
+![Logo](logo_2023.svg)
 
 The EuBIC 2023 developer's meeting will bring together scientists active in the field of computational proteomics.
 
