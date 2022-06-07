@@ -37,8 +37,8 @@ Create an issue in this repository describing your project. When creating an iss
 
 ### How to contribute?
 
-- Vote for your favorite projects in the issue tracker to show your support.
-- Leave comments to the most interesting proposals. Engage in a discussion to finetune the project proposals!
+- Vote for your favorite project in the [Discussions](https://github.com/eubic/EuBIC2023/discussions/5) section!
+- Leave comments to interesting proposals. Engage in a discussion to finetune the project proposals!
 
 
 ### Important deadlines
