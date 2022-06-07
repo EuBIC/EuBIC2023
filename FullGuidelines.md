@@ -57,7 +57,7 @@ If you are interested in one of the submitted project proposals please **indicat
 You can simply vote for your favorite projects or leave comments to the most interesting proposals. When discussing an extension 
 of a project proposal please make sure to include all relevant information in this discussion as mentioned above.
 
-### [Submit your project proposal now!](https://github.com/eubic/EuBIC2023/issues/new)
+### [Submit your project proposal now!](https://github.com/eubic/EuBIC2023/issues)
 
 ## Project selection
 
