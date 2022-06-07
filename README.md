@@ -48,9 +48,8 @@ Create an issue in this repository describing your project. When creating an iss
 
 ### Powered by
 
-<img src="graphics/fgcz.svg" alt="FGCZ" height="100"/>
-<img src="graphics/ethz.svg" alt="ETHZ" height="100"/>
-<img src="graphics/uzh.svg" alt="UZH" height="100"/>
+<img src="graphics/fgcz.svg" alt="FGCZ" height="120"/>
+<img src="graphics/eth_uzh.svg" alt="ETHZ UZH" height="100"/>
 
 <img src="https://csf.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.870529631.gif" alt="CSFlogo" height="100"/>
 
