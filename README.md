@@ -14,7 +14,7 @@ For more information about the meeting, please check the **[official website](ht
 
 Topics for the hackathon sessions during the EuBIC 2023 developer's meeting can now be proposed!
 
-Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developer's meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues)**.
+Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developer's meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues/3)**.
 
 ### How to submit a project proposal?
 
@@ -52,9 +52,12 @@ Create an issue in this repository describing your project. When creating an iss
 <img src="graphics/ethz.svg" alt="ETHZ" height="100"/>
 <img src="graphics/uzh.svg" alt="UZH" height="100"/>
 
-<img src="(https://eupa.org/wp-content/uploads/2016/07/header-object.png" alt="Matrix Science" height="100"/>
+<img src="https://csf.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.870529631.gif" alt="CSFlogo" height="100"/>
+
+<img src="https://eupa.org/wp-content/uploads/2016/07/header-object.png" alt="EuPAlogo" height="100"/>
 
 ### Sponsors 
 
 <img src="graphics/MatrixScience_logo_CMYK_800x212.jpg" alt="Matrix Science" height="100"/>
+
 
