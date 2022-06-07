@@ -1,4 +1,10 @@
 
+## Preample
+
+We believe in the [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068) (FAIR4RS Principles). A "fresh look" is outlined [here](https://www.sciencedirect.com/science/article/pii/S2666389921000362?via%3Dihub).
+
+Any code developed during the hackathons should be distributed under an open-source license.
+
 ## Submission
 
 Topics for the hackathon sessions during the EuBIC 2023 Developers Meeting can now be proposed!
@@ -53,7 +59,7 @@ If you are interested in one of the submitted project proposals please **indicat
 You can simply vote for your favorite projects or leave comments to the most interesting proposals. When discussing an extension 
 of a project proposal please make sure to include all relevant information in this discussion as mentioned above.
 
-### [Submit your project proposal now!](https://github.com/eubic/EuBIC2023/issues/new?assignees=&labels=&template=hackathon--proposal.md&title=)
+### [Submit your project proposal now!](https://github.com/eubic/EuBIC2023/issues)
 
 ## Project selection
 

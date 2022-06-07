@@ -1,7 +1,10 @@
 # EuBIC 2023 developers meeting
 ### 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
 
-![Logo](logo_2023.png)
+
+### Sunday, 15&ndash;20 January 2023, [Congressi Stefano Franscini](https://csf.ethz.ch/), [Monte Verità](https://s.geo.admin.ch/92fb27a112), Ticino, Switzerland
+
+![Logo](graphics/logo_2023.svg)
 
 The EuBIC 2023 developers meeting will bring together scientists active in the field of computational proteomics.
 
@@ -13,7 +16,7 @@ For more information about the meeting, please check the **[official website](ht
 
 Topics for the hackathon sessions during the EuBIC 2023 developers meeting can now be proposed!
 
-Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from  previous developers meetings can be found for on the GitHub pages from the **[2018 edition](https://github.com/eubic/eubic18/issues)** and the **[2020 edition](https://github.com/eubic/EuBIC2020/issues)**.
+Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2023/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2023 developer's meeting can be found **[here](https://github.com/eubic/EuBIC2023/issues/3)**.
 
 ### How to submit a project proposal?
 
@@ -36,8 +39,8 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 ### How to contribute?
 
-- Vote for your favorite projects in the issue tracker to show your support.
-- Leave comments to the most interesting proposals. Engage in a discussion to finetune the project proposals!
+- Vote for your favorite project in the [Discussions](https://github.com/eubic/EuBIC2023/discussions/5) section!
+- Leave comments to interesting proposals. Engage in a discussion to finetune the project proposals!
 
 
 ### Important deadlines
@@ -47,6 +50,15 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 ### Powered by
 
-![ETHlogo](eth_logo_kurz_pos.png)
+<img src="graphics/fgcz.svg" alt="FGCZ" height="120"/>
+<img src="graphics/eth_uzh.svg" alt="ETHZ UZH" height="100"/>
 
-![EuPAlogo](https://eupa.org/wp-content/uploads/2016/07/header-object.png)
+<img src="https://csf.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.870529631.gif" alt="CSFlogo" height="100"/>
+
+<img src="https://eupa.org/wp-content/uploads/2016/07/header-object.png" alt="EuPAlogo" height="100"/>
+
+### Sponsors 
+
+<img src="graphics/MatrixScience_logo_CMYK_800x212.jpg" alt="Matrix Science" height="100"/>
+
+
