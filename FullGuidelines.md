@@ -1,4 +1,8 @@
 
+## Preample
+
+Any code developed in the hackathons is supposed to be distributed under an open-source code license.
+
 ## Submission
 
 Topics for the hackathon sessions during the EuBIC 2023 Developer's Meeting can now be proposed!

@@ -45,3 +45,9 @@ Create an issue in this repository describing your project. When creating an iss
 
 - Hackathons proposal deadline: September 30th, 2022
 - Notification of accepted hackathons: November 1st, 2022
+
+### Powered by
+
+![ETHlogo](eth_logo_kurz_pos.png)
+
+![EuPAlogo](https://eupa.org/wp-content/uploads/2016/07/header-object.png)
