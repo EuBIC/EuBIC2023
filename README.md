@@ -48,8 +48,16 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 ### Powered by
 
+
+_<table>
+  <tr>
+    <th >
 <img src="graphics/fgcz.svg" alt="FGCZ" height="120"/>
-<img src="graphics/eth_uzh.svg" alt="ETHZ UZH" height="100"/>
+    </th>
+    <th>
+<img src="graphics/eth_uzh.svg" alt="ETHZ UZH" height="80"/>
+    </th>
+</table>
 
 <img src="https://csf.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.870529631.gif" alt="CSFlogo" height="100"/>
 
