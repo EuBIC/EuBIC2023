@@ -49,7 +49,7 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 ### Powered by
 
 
-_<table>
+<table>
   <tr>
     <th >
 <img src="graphics/fgcz.svg" alt="FGCZ" height="120"/>
