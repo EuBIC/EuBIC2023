@@ -8,7 +8,7 @@ Any code developed during the hackathons should be distributed under an open-sou
 
 ## Scope
 
-Your project should not be to complex and be finishable in about 3 days by a team of max. 10 developers. Don't assume that everybody is a full-blown coding expert! You might budget extra time for explaining common tools like your favourite code reporsitory or whatever tools should be used by the project team. Coding style and documentation are also important aspects that should be covered. Try to break down your project into manageable smaller subunits that can be solved 2-3 people working in parallel. Always keep in mind that parts still need to come back together, so interface design/definition might also be a topic.
+Your project should not be to complex and be finishable in about 3 days by a team of max. 10 developers. Don't assume that everybody is a full-blown coding expert! You might budget extra time for explaining common tools like your favourite code reporsitory or whatever tools should be used by the project team. Coding style, documentation, unit testing and CI are also important aspects that might be worth touching on. Try to break down your project into manageable smaller subunits that can be solved 2-3 people working in parallel. Always keep in mind that parts still need to come back together, so interface design/definition might also be a topic.
 
 🧑🏼‍💻👨🏾‍💻👩🏻‍💻
 
@@ -22,18 +22,27 @@ Projects with most votes will be presented at the Developers Meeting and include
 
 These projects can include, but are not limited to:
 
-  -   Tools    
-    - Extension of existing bioinformatics tools under the guidance of their original authors   
-    - Development of novel bioinformatics tools to solve open problems   
-  -   Benchmarking    
-     -   Compilation of gold-truth datasets   
-     -   Collection of reference algorithmic implementations   
-     -   Specification of benchmarking criteria   
-   -  Workflows    
-     -   Definition of formal protocols   
-     -   Development of tutorials for bioinformatics software usage   
-   -  Data analysis   
-     -   (Re)analysis of publicly available proteomics datasets   
+### Software Tool Development
+- Extension of existing bioinformatics tools under the guidance of their original authors   
+- Development of novel bioinformatics tools to solve open problems   
+
+### Benchmarking of Software Tools/Algorithms
+- Compilation of ground-truth/reference datasets   
+- Collection of reference implementation   
+- Specification of benchmarking criteria/free parameters
+- Implementation of automated benchmarking workflow
+
+### Development of Data Analysis Workflows
+- Definition of formal protocol   
+- Implementation of analysis workflow using a reproducable & shareable framework (Galaxy, Nextflow, ...)
+- Publication of workflow
+
+### Dataset re-analysis   
+- (Re)analysis of publicly available proteomics datasets
+- Are the original results reproduceable?
+- Are the results robust or do they suffer from free parameter choices?
+
+Due to this years topic, we of course hope to recieve many AI-related hackathon proposal, but this is NOT a must! Any good science is welcome! 🧠👩‍🔬💡
 
 ## Guidelines
 
