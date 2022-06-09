@@ -48,8 +48,16 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 ### Powered by
 
+
+<table>
+  <tr>
+    <th >
 <img src="graphics/fgcz.svg" alt="FGCZ" height="120"/>
-<img src="graphics/eth_uzh.svg" alt="ETHZ UZH" height="100"/>
+    </th>
+    <th>
+<img src="graphics/eth_uzh.svg" alt="ETHZ UZH" height="80"/>
+    </th>
+</table>
 
 <img src="https://csf.ethz.ch/_jcr_content/orgbox/image.imageformat.logo.870529631.gif" alt="CSFlogo" height="100"/>
 
@@ -57,6 +65,7 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 ### Sponsors 
 
+<img src="graphics/Biognosys_1135x300px_BGSlogo_screen_color.png " alt="Biognosys" height="100"/>
 <img src="graphics/MatrixScience_logo_CMYK_800x212.jpg" alt="Matrix Science" height="100"/>
 
 
