@@ -65,6 +65,7 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 ### Sponsors 
 
+<img src="graphics/Biognosys_1135x300px_BGSlogo_screen_color.png " alt="Biognosys" height="100"/>
 <img src="graphics/MatrixScience_logo_CMYK_800x212.jpg" alt="Matrix Science" height="100"/>
 
 
