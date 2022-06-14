@@ -82,3 +82,7 @@ of a project proposal please make sure to include all relevant information in th
 Project proposals will be selected for inclusion into the meeting's program by the scientific committee, and international teams 
 will be created to implement the solutions envisioned. Selection criteria include the scientific merit of the proposal and 
 the community interest.
+
+## Precautions
+
+Be aware of the [Ballmer peak](https://xkcd.com/323/)! ;-)
