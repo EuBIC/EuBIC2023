@@ -1,0 +1,55 @@
+---
+title: "Welcome"
+author: "CP/TK"
+date: "2023-01-15"
+format: revealjs
+fragmentInURL: true
+---
+
+
+## Organizational issues
+
+- breakfast/lunch/dinner
+- shuttle transfer  (only for the once staying in [Hotel dell angelo](https://www.dellangelo.ch))
+- wireless
+- food special dietary
+- slack workspace: ???
+- outline Sunday (keynote, flash, poster, Apéro)
+- twitter [#EuBIC2023](https://twitter.com/hashtag/EuBIC2023?src=hashtag_click) 
+
+## Sunday
+
+- 1600 - CSF welcome address
+- 1615 - EuBIC-MS self intro?
+- 1620 - CP/TK organization issues
+- 1630 - start keynotes
+- 1800 - poster flash talks
+- 1900 - Apéro Riche (in combination with the Poster Session)
+
+## Monday 
+
+- 07:30 - 09:00 breakfast
+- ??:?? and ??:?? shuttle transfer 
+- 0900 keynotes
+- 1200 lunch
+- 1300 hackathon presentations
+
+
+## Sponsors
+
+![](../graphics/Biognosys_1135x300px_BGSlogo_screen_color.png){.absolute top="150" left="30" height="100"}
+![](../graphics/MatrixScience_logo_CMYK_800x212.jpg){.absolute top="270" left="30" height="100"}
+![](https://www.msaid.de/hs-fs/hubfs/MSAID-Logo-Homepage-1.jpg?width=2720&height=690&name=MSAID-Logo-Homepage-1.jpg){.absolute top="390" left="30" height="100"}
+
+## Important locations
+
+```{r}
+#| echo: false
+#| fig-height: 6
+library(leaflet)
+leaflet::leaflet() |>
+  leaflet::addTiles() |>
+  leaflet::addMarkers(lng=8.7631, lat=46.1584, popup="Monte Verita") |>
+  leaflet::addMarkers(lng=8.7702, lat=46.1533, popup="Ristorante Osteria Nostrana") |>
+  leaflet::addMarkers(lng=8.7943, lat=46.1686, popup="Hotel DELL'ANGELO")
+```
