@@ -1,7 +1,7 @@
 
 ## Preample
 
-We believe in the [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068) (FAIR4RS Principles). A "fresh look" is outlined [here](https://www.sciencedirect.com/science/article/pii/S2666389921000362?via%3Dihub).
+We (EuBIC) and ETHZ believe in the [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068) (FAIR4RS Principles) and data. A "fresh look" is outlined [here](https://www.sciencedirect.com/science/article/pii/S2666389921000362?via%3Dihub).
 
 Any code developed during the hackathons should be distributed under an open-source license.
 
@@ -82,3 +82,7 @@ of a project proposal please make sure to include all relevant information in th
 Project proposals will be selected for inclusion into the meeting's program by the scientific committee, and international teams 
 will be created to implement the solutions envisioned. Selection criteria include the scientific merit of the proposal and 
 the community interest.
+
+## Precautions
+
+Be aware of the [Ballmer peak](https://xkcd.com/323/)! ;-)

@@ -67,5 +67,6 @@ Create an **[issue](https://github.com/eubic/EuBIC2023/issues)** in this reposit
 
 <img src="graphics/Biognosys_1135x300px_BGSlogo_screen_color.png " alt="Biognosys" height="100"/>
 <img src="graphics/MatrixScience_logo_CMYK_800x212.jpg" alt="Matrix Science" height="100"/>
+<img src="https://www.msaid.de/hs-fs/hubfs/MSAID-Logo-Homepage-1.jpg?width=2720&height=690&name=MSAID-Logo-Homepage-1.jpg" alt="MSAidlogo" height="100"/>
 
 
