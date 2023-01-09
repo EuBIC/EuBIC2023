@@ -2,7 +2,10 @@
 title: "Welcome"
 author: "CP/TK"
 date: "2023-01-15"
-format: revealjs
+format:
+  revealjs:
+    logo: logo.jpg
+    slide-number: true
 fragmentInURL: true
 ---
 
@@ -33,13 +36,6 @@ fragmentInURL: true
 - 0900 keynotes
 - 1200 lunch
 - 1300 hackathon presentations
-
-
-## Sponsors
-
-![](../graphics/Biognosys_1135x300px_BGSlogo_screen_color.png){.absolute top="150" left="30" height="100"}
-![](../graphics/MatrixScience_logo_CMYK_800x212.jpg){.absolute top="270" left="30" height="100"}
-![](https://www.msaid.de/hs-fs/hubfs/MSAID-Logo-Homepage-1.jpg?width=2720&height=690&name=MSAID-Logo-Homepage-1.jpg){.absolute top="390" left="30" height="100"}
 
 ## Important locations
 
