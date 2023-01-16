@@ -9,33 +9,39 @@ format:
 fragmentInURL: true
 ---
 
-
 ## Organizational issues
 
-- breakfast/lunch/dinner
-- shuttle transfer  (only for the once staying in [Hotel dell angelo](https://www.dellangelo.ch))
-- wireless
-- food special dietary
-- slack workspace: ???
-- outline Sunday (keynote, flash, poster, Apéro)
-- twitter [#EuBIC2023](https://twitter.com/hashtag/EuBIC2023?src=hashtag_click) 
+- Breakfast 07:30-09:00 | lunch 12:00 | dinner 19:00
+- Please join the slack
+- Twitter [#EuBIC2023](https://twitter.com/hashtag/EuBIC2023?src=hashtag_click) 
 
 ## Sunday
 
-- 1600 - CSF welcome address
-- 1615 - EuBIC-MS self intro?
-- 1620 - CP/TK organization issues
-- 1630 - start keynotes
-- 1800 - poster flash talks
-- 1900 - Apéro Riche (in combination with the Poster Session)
+::: {style="font-size: 0.70em; "}
+- 16:00 - Welcome address by CSF and EuBIC-MS
+- 16:15 - Keynotes
+  - Open Search: Open-minded Exploration of Proteomics Data <br> Alexey I. Nesvizhskii
+  - Towards the next generation of proteomics analysis with the AlphaPept ecosystem <br> Maximilian Strauss
+- 17:45 - Coffe break 
+- 18:05 - Setup/sort poster presenters
+- 18:15 - Poster flash talks
+- 19:00 - Apéro Riche (in combination with the Poster Session)
+- 21:15 - Shuttle leaves for external hotel
+:::
 
-## Monday 
+## Monday 2023-01-16
 
+::: {style="font-size: 0.70em; "}
 - 07:30 - 09:00 breakfast
-- ??:?? and ??:?? shuttle transfer 
-- 0900 keynotes
-- 1200 lunch
-- 1300 hackathon presentations
+- 08:00 Shuttle service between external hotel and CSF leaves at Raiffeisen Bank
+- 09:00 Keynotes
+  - 09:00 The DOME Recommendations for Machine Learning Exemplified on Prosit <br> Mathias Wilhelm
+  - 10:30 Predicting physiochemical properties of peptides using deep learning <br> Anna Klimovskaia Susmelj
+  - 11:15 Towards a structurally resolved human protein interaction network <br> Pedro Beltrao
+- 12:00 Lunch
+- 13:30 Hackathon presentations
+- Have fun with hackathon team
+:::
 
 ## Important locations
 
